@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Add Food Item</title>
+  <link rel="stylesheet" type="text/css" href="admin.css">
+</head>
+<body>
+    <h1>Add Food Item</h1>
+  <form id="foodForm">
+    <label for="category">Category:</label>
+    <select id="category" required>
+      <option value="Snacks">Snacks</option>
+      <!-- Add more options as needed -->
+    </select>
+
+    <label for="cuisine">Cuisine:</label>
+    <select id="cuisine" required>
+      <option value="Mexican">Mexican</option>
+      <!-- Add more options as needed -->
+    </select>
+
+    <label for="name">Name:</label>
+    <input type="text" id="name" required>
+
+    <label for="photoUrl">Photo URL:</label>
+    <input type="text" id="photoUrl" required>
+
+    <label for="price">Price:</label>
+    <input type="number" id="price" required>
+
+    <label for="restaurant">Restaurant:</label>
+    <select id="restaurant" multiple required>
+      <option value="McD">McD</option>
+      <option value="Burger King">Burger King</option>
+      <!-- Add more options as needed -->
+    </select>
+    <input type="text" id="newRestaurant" placeholder="Add new restaurant">
+    <button type="button" id="addRestaurant">Add</button>
+
+    <label for="vegNonveg">Veg/Non-Veg:</label>
+    <select id="vegNonveg" required>
+      <option value="veg">Veg</option>
+      <option value="nonveg">Non-Veg</option>
+    </select>
+
+    <label for="image">Image:</label>
+    <input type="file" id="image" required>
+
+    <button type="submit">Add Food Item</button>
+  </form>
+
+  <script src="firebase-app.js"></script>
+  <script src="firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+
+ 
