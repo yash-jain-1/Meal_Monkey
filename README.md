@@ -55,6 +55,6 @@ The Food App is released under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 
-If you have any questions or suggestions regarding Meal Monkey, feel free to contact us at foodapp@example.com. We appreciate your feedback and involvement in making this app better.
+If you have any questions or suggestions regarding Meal Monkey, feel free to contact us at yashjainstudy@gmail.com. We appreciate your feedback and involvement in making this app better.
 
-Happy coding and enjoy your food with the Food App!
+Happy coding and enjoy your food with the Meal Monkey!
