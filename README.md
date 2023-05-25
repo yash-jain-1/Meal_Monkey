@@ -1,5 +1,5 @@
 # Meal_Monkey
-Welcome to the Food App repository! This repository contains the source code for a food application built using Flutter. The app incorporates geolocation features, Firebase authentication, and Firestore database functionality. Additionally, there is an admin website included to manage the app's database and modify crucial app details.
+Welcome to the Meal Monkey repository! This repository contains the source code for a food application built using Flutter. The app incorporates geolocation features, Firebase authentication, and Firestore database functionality. Additionally, there is an admin website included to manage the app's database and modify crucial app details.
 
 ## Features
 
