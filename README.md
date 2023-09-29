@@ -1,8 +1,11 @@
 # Meal_Monkey
 Welcome to the Meal Monkey repository! This repository contains the source code for a food application built using Flutter. The app incorporates geolocation features, Firebase authentication, and Firestore database functionality. Additionally, there is an admin website included to manage the app's database and modify crucial app details.
 
-![Screen](https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0014.jpg) ![Screen2](https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0015.jpg)
-<img src="https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0016.jpg" alt="Alt Text" width="200" height = "500" />
+<img src="https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0014.jpg" alt="Alt Text" width="250" height = "500" />
+<img src="https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0015.jpg" alt="Alt Text" width="250" height = "500" />
+<img src="https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0016.jpg" alt="Alt Text" width="250" height = "500" />
+<img src="https://github.com/yash-jain-1/Meal_Monkey/blob/main/screenshots/IMG-20230929-WA0017.jpg" alt="Alt Text" width="250" height = "500" />
+
 
 ## Features
 
